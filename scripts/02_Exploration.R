@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vérifier dimensions dataset 
 dim(health)
 
@@ -37,3 +38,31 @@ table(health$region)
 
 
   
+=======
+# Vérifier le chargement
+
+head(health)
+
+# Voir dimensions
+dim(health)
+
+
+# Voir noms colonnes
+names(health)
+
+
+# Voir structure datasets:
+glimpse(health)
+
+
+# Résumé statistique rapide
+summary(health)
+
+
+# Scanner dataset 
+skim(health)
+
+
+
+
+>>>>>>> 128ef0f113241960c8b27e7290aaac52362f81b8
