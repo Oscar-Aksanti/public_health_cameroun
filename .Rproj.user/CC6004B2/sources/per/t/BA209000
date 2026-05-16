@@ -1,0 +1,26 @@
+{
+    "id": "BA209000",
+    "path": "C:/Users/Oscar Aksanti/Desktop/health/scripts/01_importation.R",
+    "project_path": "scripts/01_importation.R",
+    "type": "r_source",
+    "hash": "1322022478",
+    "contents": "",
+    "dirty": false,
+    "created": 1778921199454.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "12,15",
+        "scrollLine": "8"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1778929163,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1778929163649,
+    "read_only": false,
+    "read_only_alternatives": []
+}
